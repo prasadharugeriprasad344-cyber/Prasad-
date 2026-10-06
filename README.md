@@ -1,80 +1,88 @@
-<h1 align="center">Hi 👋, I'm Prasad R. Harugeri</h1>
+<!-- ✦ PREMIUM GITHUB PROFILE README ✦ --><div align="center">𝙋𝙍𝘼𝙎𝘼𝘿 𝙃𝘼𝙍𝙐𝙂𝙀𝙍𝙄
 
-<h3 align="center">
-  Developer | Problem Solver | Lifelong Learner
-</h3>
+"AI/ML ENGINEERING STUDENT · DEVELOPER · BUILDER"
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+code;Learning+DSA+one+problem+at+a+time;Building+projects+that+solve+real+problems;Exploring+Machine+Learning+%26+AI" alt="Typing SVG" /><br/>""GitHub" (https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/YOUR_USERNAME)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)" (YOUR_LINKEDIN_URL)
+""Portfolio" (https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)" (YOUR_PORTFOLIO_URL)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:635BFF,100:0d1117&height=2&section=header" width="100%"/></div>"01" / ABOUT ME
 
-## 👨‍💻 About Me
+class Prasad:
+    def __init__(self):
+        self.role = "AI/ML Engineering Student"
+        self.languages = ["Python", "C", "Java"]
+        self.interests = [
+            "Machine Learning",
+            "Data Structures & Algorithms",
+            "Real-world Problem Solving"
+        ]
+        self.mindset = "Learn. Build. Improve. Repeat."
 
-- 🔭 I’m currently working on **interesting software projects**
-- 🌱 I’m currently learning **new technologies and best practices**
-- 💬 Ask me about **programming, web development, and open source**
-- 📫 Reach me at **your.email@example.com**
-- ⚡ Fun fact: **I enjoy turning ideas into useful products**
+    def goal(self):
+        return "Build technology that makes a difference."
 
----
+me = Prasad()
 
-## 🛠️ Technologies & Tools
+"02" / TECH STACK
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,python,java,git,github,vscode,mongodb,mysql" />
-</p>
+<div align="center">LANGUAGES
 
----
+<img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" />TOOLS & TECHNOLOGIES
 
-## 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,html,css&theme=dark" />AI / DATA SCIENCE
 
-### 📌 Project One
-Short description of your project and what problem it solves.
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></div>"03" / FEATURED PROJECTS
 
-- 🔗 [Live Demo](https://example.com)
-- 💻 [Source Code](https://github.com/YOUR_USERNAME/project-one)
+<table>
+<tr>
+<td width="50%">♻️ Smart Waste Monitoring
 
-### 📌 Project Two
-Short description of another project you have built.
+IoT-based waste-level monitoring using sensors and a microcontroller.
 
-- 🔗 [Live Demo](https://example.com)
-- 💻 [Source Code](https://github.com/YOUR_USERNAME/project-two)
+"IoT" "Embedded Systems"
 
----
+</td>
+<td width="50%">🤖 AI Government Form Assistant
 
-## 📊 GitHub Statistics
+A project concept to simplify government forms and instructions.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+"Python" "AI" "Accessibility"
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%">🦾 Assistive Robotic Arm
 
----
+An affordable robotics concept for assisting people with everyday tasks.
 
-## 🤝 Connect With Me
+"Robotics" "Arduino" "Automation"
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" />
-  </a>
-</p>
+</td>
+<td width="50%">🧠 DSA Journey
 
----
+My solutions, problem-solving patterns, and progress in data structures and algorithms.
 
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
-</p>
+"C" "Python" "Algorithms"
+
+</td>
+</tr>
+</table>«Replace each project title with a link to its actual repository once it is published. Label concepts honestly until they're implemented.»
+
+"04" / GITHUB ANALYTICS
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=635BFF&text_color=c9d1d9&rank_icon=github" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" /><img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00F7FF&fire=635BFF&currStreakLabel=00F7FF" /></div>"05" / CURRENT MISSION
+
+- [ ] Strengthen DSA fundamentals
+- [ ] Build practical Python projects
+- [ ] Learn machine learning fundamentals
+- [ ] Create and document meaningful projects
+- [ ] Contribute to open-source projects
+
+<div align="center">“Consistency compounds. Keep building.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>Thanks for visiting my corner of GitHub.
+
+</div>
